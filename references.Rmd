@@ -1,0 +1,7 @@
+---
+title: "references"
+output: html_document
+bibliography: references.bib
+---
+
+[@howard2003; @pedley1997; @powell2003]
