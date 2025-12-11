@@ -1,0 +1,17 @@
+﻿variable_name,description
+source,source( organisation with information)
+water_tech,Technnology the source uses
+install_year,year it was installed
+installer,who installed the water point
+fecal_coliform_value,number of fecal colifoems
+fecal_coliform_presence,presence or absence of coliforms
+clean_country_id,country's id
+clean_country_name,country's name
+management,who manages the water source
+status_clean,is it working or not
+count,how many water points at that point
+pay_clean,is the water paid for
+subjective_quality_clean,any subjective issues on the water
+facility type,is it an improved or unimproved water source or not known
+water_source_clean,what kind of water source is it
+clean_adm1,admisnistarator location
