@@ -3,7 +3,7 @@ title: "index.qmd"
 author: "Kitiibwa Melita Nathania"
 date: "12/11/2025"
 format: 
-  pdf:
+  html:
     embed-resources: true
     toc: true
 execute:
